@@ -1,0 +1,29 @@
+{
+  "name": "react-native-config-bridge",
+  "version": "0.9.0",
+  "description": "The aim of this library is to pass variables from Android and iOS native sides to Javascript. This is useful to know what buildType/configuration the current app is built upon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digbang/react-native-config-bridge.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Eze Livinsky",
+    "email": "elivinsky@digbang.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
