@@ -1,6 +1,6 @@
 {
   "name": "react-native-config-bridge",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "The aim of this library is to pass variables from Android and iOS native sides to Javascript. This is useful to know what buildType/configuration the current app is built upon.",
   "main": "index.js",
   "scripts": {
