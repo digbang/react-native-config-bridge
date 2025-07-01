@@ -1,9 +1,7 @@
 module.exports = {
-  dependency: {
-    platforms: {
-      android: {
-        packageInstance: 'new RNConfigPackage(BuildConfig.class)',
-      },
+  dependencies: {
+    'react-native-test-library': {
+      root: __dirname,
     },
   },
 };

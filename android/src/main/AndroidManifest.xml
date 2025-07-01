@@ -1,4 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.digbang.rnconfig">
-
+          package="com.configbridge">
 </manifest>

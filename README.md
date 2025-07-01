@@ -5,7 +5,7 @@ The aim of this library is to read variables from Android and iOS native config 
 ## Getting started
 
 ```shell script
-yarn add react-native-config-bridge
+npm install react-native-config-bridge
 ```
 
 ##### For RN 0.60 and upper
