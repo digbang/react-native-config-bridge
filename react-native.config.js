@@ -1,6 +1,6 @@
 module.exports = {
   dependencies: {
-    'react-native-test-library': {
+    'react-native-config-bridge': {
       root: __dirname,
     },
   },

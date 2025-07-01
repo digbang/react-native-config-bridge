@@ -46,14 +46,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dsuprano/react-native-config-bridge.git"
+    "url": "git+https://github.com/digbang/react-native-config-bridge.git"
   },
   "author": "dsuprano <delvismoisescr@gmail.com> (https://github.com/dsuprano)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dsuprano/react-native-config-bridge/issues"
+    "url": "https://github.com/digbang/react-native-config-bridge/issues"
   },
-  "homepage": "https://github.com/dsuprano/react-native-config-bridge#readme",
+  "homepage": "https://github.com/digbang/react-native-config-bridge#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
